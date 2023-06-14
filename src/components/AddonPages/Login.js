@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import LogoutModal from '../LogoutModal'
+// import LogoutModal from '../LogoutModal'
 
 const Login = () => {
   return (
